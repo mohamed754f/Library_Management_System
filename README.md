@@ -13,10 +13,8 @@ This is a **Library Management System** designed to manage and streamline the op
 ---
 
 ## 🛠️ Technologies Used
-- **Frontend**: [e.g., React.js, Angular, HTML, CSS]
-- **Backend**: [e.g., Python, Flask, Django, or Java]
-- **Database**: [e.g., MySQL, PostgreSQL, MongoDB]
-- **Tools**: [e.g., Git, Docker]
+- **Backend**: [e.g., C#]
+- **Tools**: [Git]
 
 ---
 
